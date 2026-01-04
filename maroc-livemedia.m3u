@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTVLCOPT:http-referrer=https://livemedia.ma/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="Al Aoula" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/icons/alaoula.ma.png" group-title="Maroc - LiveMedia",Al Aoula 4K / Max (stream_0)
+https://stream-lb.livemedia.ma/alaoula/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="Al Aoula" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/icons/alaoula.ma.png" group-title="Maroc - LiveMedia",Al Aoula 1080p / HD (stream_1)
+https://stream-lb.livemedia.ma/alaoula/hls/stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2M.ma" tvg-name="2M TV" tvg-logo="https://m.2m.ma/static/images/2m-logo-thumbnail.png" group-title="Maroc - LiveMedia",2M TV 4K / Max (stream_0)
+https://stream-lb.livemedia.ma/2m/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="2M.ma" tvg-name="2M TV" tvg-logo="https://m.2m.ma/static/images/2m-logo-thumbnail.png" group-title="Maroc - LiveMedia",2M TV 1080p / HD (stream_1)
+https://stream-lb.livemedia.ma/2m/hls/stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="Arryadia" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/icons/arryadia.ma.png" group-title="Maroc - LiveMedia",Arryadia 4K / Max (stream_0)
+https://stream-lb.livemedia.ma/arryadia/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="Arryadia" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/icons/arryadia.ma.png" group-title="Maroc - LiveMedia",Arryadia 1080p / HD (stream_1)
+https://stream-lb.livemedia.ma/arryadia/hls/stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-name="Al Maghribia" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/icons/almaghribia.ma.png" group-title="Maroc - LiveMedia",Al Maghribia 4K / Max (stream_0)
+https://stream-lb.livemedia.ma/almaghribia/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-name="Al Maghribia" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/icons/almaghribia.ma.png" group-title="Maroc - LiveMedia",Al Maghribia 1080p / HD (stream_1)
+https://stream-lb.livemedia.ma/almaghribia/hls/stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Assadissa.ma" tvg-name="Assadissa" tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="Maroc - LiveMedia",Assadissa 4K / Max (stream_0)
+https://stream-lb.livemedia.ma/assadissa/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="Assadissa.ma" tvg-name="Assadissa" tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="Maroc - LiveMedia",Assadissa 1080p / HD (stream_1)
+https://stream-lb.livemedia.ma/assadissa/hls/stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tamazight.ma" tvg-name="Tamazight" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/icons/tamazight.ma.png" group-title="Maroc - LiveMedia",Tamazight 4K / Max (stream_0)
+https://stream-lb.livemedia.ma/tamazight/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="Tamazight.ma" tvg-name="Tamazight" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/icons/tamazight.ma.png" group-title="Maroc - LiveMedia",Tamazight 1080p / HD (stream_1)
+https://stream-lb.livemedia.ma/tamazight/hls/stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AflamTV.ma" tvg-name="Aflam TV" tvg-logo="https://i.imgur.com/mrwFI2L.png" group-title="Maroc - LiveMedia",Aflam TV 4K / Max (stream_0)
+https://stream-lb.livemedia.ma/aflam/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="AflamTV.ma" tvg-name="Aflam TV" tvg-logo="https://i.imgur.com/mrwFI2L.png" group-title="Maroc - LiveMedia",Aflam TV 1080p / HD (stream_1)
+https://stream-lb.livemedia.ma/aflam/hls/stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Medi1TV.ma" tvg-name="Medi1 TV" tvg-logo="https://www.medi1tv.com/ar/img/logo2.png" group-title="Maroc - LiveMedia",Medi1 TV 4K / Max (stream_0)
+https://stream-lb.livemedia.ma/medi1tv/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="Medi1TV.ma" tvg-name="Medi1 TV" tvg-logo="https://www.medi1tv.com/ar/img/logo2.png" group-title="Maroc - LiveMedia",Medi1 TV 1080p / HD (stream_1)
+https://stream-lb.livemedia.ma/medi1tv/hls/stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="M24.ma" tvg-name="M24 Maroc" tvg-logo="https://i.imgur.com/0kXjZ.png" group-title="Maroc - LiveMedia",M24 Maroc 4K / Max (stream_0)
+https://stream-lb.livemedia.ma/m24maroc/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="M24.ma" tvg-name="M24 Maroc" tvg-logo="https://i.imgur.com/0kXjZ.png" group-title="Maroc - LiveMedia",M24 Maroc 1080p / HD (stream_1)
+https://stream-lb.livemedia.ma/m24maroc/hls/stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChadaTV.ma" tvg-name="Chada TV" tvg-logo="https://i.imgur.com/chadatv-logo.png" group-title="Maroc - LiveMedia",Chada TV 4K / Max (stream_0)
+https://stream-lb.livemedia.ma/chadatv/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="ChadaTV.ma" tvg-name="Chada TV" tvg-logo="https://i.imgur.com/chadatv-logo.png" group-title="Maroc - LiveMedia",Chada TV 1080p / HD (stream_1)
+https://stream-lb.livemedia.ma/chadatv/hls/stream_1/playlist.m3u8
