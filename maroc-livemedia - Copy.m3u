@@ -1,0 +1,132 @@
+#EXTM3U
+#EXTVLCOPT:http-referrer=https://livemedia.ma/
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+# Al Aoula
+#EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="Al Aoula 4K" tvg-logo="https://seeklogo.com/images/A/al-oula-logo-0E6A8E8E8E.png" group-title="Maroc LiveMedia",Al Aoula 4K
+https://stream-lb.livemedia.ma/alaoula/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="Al Aoula 1080p" tvg-logo="https://seeklogo.com/images/A/al-oula-logo-0E6A8E8E8E.png" group-title="Maroc LiveMedia",Al Aoula 1080p
+https://stream-lb.livemedia.ma/alaoula/hls/stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="Al Aoula 720p" tvg-logo="https://seeklogo.com/images/A/al-oula-logo-0E6A8E8E8E.png" group-title="Maroc LiveMedia",Al Aoula 720p
+https://stream-lb.livemedia.ma/alaoula/hls/stream_2/playlist.m3u8
+
+# 2M
+#EXTINF:-1 tvg-id="2M.ma" tvg-name="2M 4K" tvg-logo="https://m.2m.ma/static/images/2m-logo-thumbnail.png" group-title="Maroc LiveMedia",2M 4K
+https://stream-lb.livemedia.ma/2m/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="2M.ma" tvg-name="2M 1080p" tvg-logo="https://m.2m.ma/static/images/2m-logo-thumbnail.png" group-title="Maroc LiveMedia",2M 1080p
+https://stream-lb.livemedia.ma/2m/hls/stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="2M.ma" tvg-name="2M 720p" tvg-logo="https://m.2m.ma/static/images/2m-logo-thumbnail.png" group-title="Maroc LiveMedia",2M 720p
+https://stream-lb.livemedia.ma/2m/hls/stream_2/playlist.m3u8
+
+# Arryadia
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="Arryadia 4K" tvg-logo="https://seeklogo.com/images/A/arryadia-logo-243450.png" group-title="Maroc LiveMedia",Arryadia 4K
+https://stream-lb.livemedia.ma/arryadia/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="Arryadia 1080p" tvg-logo="https://seeklogo.com/images/A/arryadia-logo-243450.png" group-title="Maroc LiveMedia",Arryadia 1080p
+https://stream-lb.livemedia.ma/arryadia/hls/stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="Arryadia 720p" tvg-logo="https://seeklogo.com/images/A/arryadia-logo-243450.png" group-title="Maroc LiveMedia",Arryadia 720p
+https://stream-lb.livemedia.ma/arryadia/hls/stream_2/playlist.m3u8
+
+# Arryadia HD 1
+#EXTINF:-1 tvg-id="ArryadiaHD1.ma" tvg-name="Arryadia HD1 4K" tvg-logo="https://seeklogo.com/images/A/arryadia-logo-243450.png" group-title="Maroc LiveMedia",Arryadia HD1 4K
+https://stream-lb.livemedia.ma/arryadia-hd-01/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="ArryadiaHD1.ma" tvg-name="Arryadia HD1 1080p" tvg-logo="https://seeklogo.com/images/A/arryadia-logo-243450.png" group-title="Maroc LiveMedia",Arryadia HD1 1080p
+https://stream-lb.livemedia.ma/arryadia-hd-01/hls/stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="ArryadiaHD1.ma" tvg-name="Arryadia HD1 720p" tvg-logo="https://seeklogo.com/images/A/arryadia-logo-243450.png" group-title="Maroc LiveMedia",Arryadia HD1 720p
+https://stream-lb.livemedia.ma/arryadia-hd-01/hls/stream_2/playlist.m3u8
+
+# Arryadia HD 2
+#EXTINF:-1 tvg-id="ArryadiaHD2.ma" tvg-name="Arryadia HD2 4K" tvg-logo="https://seeklogo.com/images/A/arryadia-logo-243450.png" group-title="Maroc LiveMedia",Arryadia HD2 4K
+https://stream-lb.livemedia.ma/arryadia-hd-02/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="ArryadiaHD2.ma" tvg-name="Arryadia HD2 1080p" tvg-logo="https://seeklogo.com/images/A/arryadia-logo-243450.png" group-title="Maroc LiveMedia",Arryadia HD2 1080p
+https://stream-lb.livemedia.ma/arryadia-hd-02/hls/stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="ArryadiaHD2.ma" tvg-name="Arryadia HD2 720p" tvg-logo="https://seeklogo.com/images/A/arryadia-logo-243450.png" group-title="Maroc LiveMedia",Arryadia HD2 720p
+https://stream-lb.livemedia.ma/arryadia-hd-02/hls/stream_2/playlist.m3u8
+
+# Arryadia HD 3
+#EXTINF:-1 tvg-id="ArryadiaHD3.ma" tvg-name="Arryadia HD3 4K" tvg-logo="https://seeklogo.com/images/A/arryadia-logo-243450.png" group-title="Maroc LiveMedia",Arryadia HD3 4K
+https://stream-lb.livemedia.ma/arryadia-hd-03/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="ArryadiaHD3.ma" tvg-name="Arryadia HD3 1080p" tvg-logo="https://seeklogo.com/images/A/arryadia-logo-243450.png" group-title="Maroc LiveMedia",Arryadia HD3 1080p
+https://stream-lb.livemedia.ma/arryadia-hd-03/hls/stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="ArryadiaHD3.ma" tvg-name="Arryadia HD3 720p" tvg-logo="https://seeklogo.com/images/A/arryadia-logo-243450.png" group-title="Maroc LiveMedia",Arryadia HD3 720p
+https://stream-lb.livemedia.ma/arryadia-hd-03/hls/stream_2/playlist.m3u8
+
+# Arryadia TNT
+#EXTINF:-1 tvg-id="ArryadiaTNT.ma" tvg-name="Arryadia TNT 4K" tvg-logo="https://seeklogo.com/images/A/arryadia-logo-243450.png" group-title="Maroc LiveMedia",Arryadia TNT 4K
+https://stream-lb.livemedia.ma/arryadia-tnt/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="ArryadiaTNT.ma" tvg-name="Arryadia TNT 1080p" tvg-logo="https://seeklogo.com/images/A/arryadia-logo-243450.png" group-title="Maroc LiveMedia",Arryadia TNT 1080p
+https://stream-lb.livemedia.ma/arryadia-tnt/hls/stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="ArryadiaTNT.ma" tvg-name="Arryadia TNT 720p" tvg-logo="https://seeklogo.com/images/A/arryadia-logo-243450.png" group-title="Maroc LiveMedia",Arryadia TNT 720p
+https://stream-lb.livemedia.ma/arryadia-tnt/hls/stream_2/playlist.m3u8
+
+# Al Maghribia
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-name="Al Maghribia 4K" tvg-logo="https://raw.githubusercontent.com/3nakib/IPTV/master/icons/AlMaghribia.ma.png" group-title="Maroc LiveMedia",Al Maghribia 4K
+https://stream-lb.livemedia.ma/almaghribia/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-name="Al Maghribia 1080p" tvg-logo="https://raw.githubusercontent.com/3nakib/IPTV/master/icons/AlMaghribia.ma.png" group-title="Maroc LiveMedia",Al Maghribia 1080p
+https://stream-lb.livemedia.ma/almaghribia/hls/stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-name="Al Maghribia 720p" tvg-logo="https://raw.githubusercontent.com/3nakib/IPTV/master/icons/AlMaghribia.ma.png" group-title="Maroc LiveMedia",Al Maghribia 720p
+https://stream-lb.livemedia.ma/almaghribia/hls/stream_2/playlist.m3u8
+
+# Assadissa
+#EXTINF:-1 tvg-id="Assadissa.ma" tvg-name="Assadissa 4K" tvg-logo="https://i.ibb.co/7n0kPqL/assadissa.png" group-title="Maroc LiveMedia",Assadissa 4K
+https://stream-lb.livemedia.ma/assadissa/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="Assadissa.ma" tvg-name="Assadissa 1080p" tvg-logo="https://i.ibb.co/7n0kPqL/assadissa.png" group-title="Maroc LiveMedia",Assadissa 1080p
+https://stream-lb.livemedia.ma/assadissa/hls/stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Assadissa.ma" tvg-name="Assadissa 720p" tvg-logo="https://i.ibb.co/7n0kPqL/assadissa.png" group-title="Maroc LiveMedia",Assadissa 720p
+https://stream-lb.livemedia.ma/assadissa/hls/stream_2/playlist.m3u8
+
+# Tamazight
+#EXTINF:-1 tvg-id="Tamazight.ma" tvg-name="Tamazight 4K" tvg-logo="https://raw.githubusercontent.com/3nakib/IPTV/master/icons/Tamazight.ma.png" group-title="Maroc LiveMedia",Tamazight 4K
+https://stream-lb.livemedia.ma/tamazight/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="Tamazight.ma" tvg-name="Tamazight 1080p" tvg-logo="https://raw.githubusercontent.com/3nakib/IPTV/master/icons/Tamazight.ma.png" group-title="Maroc LiveMedia",Tamazight 1080p
+https://stream-lb.livemedia.ma/tamazight/hls/stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tamazight.ma" tvg-name="Tamazight 720p" tvg-logo="https://raw.githubusercontent.com/3nakib/IPTV/master/icons/Tamazight.ma.png" group-title="Maroc LiveMedia",Tamazight 720p
+https://stream-lb.livemedia.ma/tamazight/hls/stream_2/playlist.m3u8
+
+# Aflam TV
+#EXTINF:-1 tvg-id="AflamTV.ma" tvg-name="Aflam TV 4K" tvg-logo="https://i.ibb.co/mrwFI2L/aflam-tv.png" group-title="Maroc LiveMedia",Aflam TV 4K
+https://stream-lb.livemedia.ma/aflam/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="AflamTV.ma" tvg-name="Aflam TV 1080p" tvg-logo="https://i.ibb.co/mrwFI2L/aflam-tv.png" group-title="Maroc LiveMedia",Aflam TV 1080p
+https://stream-lb.livemedia.ma/aflam/hls/stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="AflamTV.ma" tvg-name="Aflam TV 720p" tvg-logo="https://i.ibb.co/mrwFI2L/aflam-tv.png" group-title="Maroc LiveMedia",Aflam TV 720p
+https://stream-lb.livemedia.ma/aflam/hls/stream_2/playlist.m3u8
+
+# Medi1TV
+#EXTINF:-1 tvg-id="Medi1TV.ma" tvg-name="Medi1TV 4K" tvg-logo="https://www.medi1tv.com/ar/img/logo2.png" group-title="Maroc LiveMedia",Medi1TV 4K
+https://stream-lb.livemedia.ma/medi1tv/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="Medi1TV.ma" tvg-name="Medi1TV 1080p" tvg-logo="https://www.medi1tv.com/ar/img/logo2.png" group-title="Maroc LiveMedia",Medi1TV 1080p
+https://stream-lb.livemedia.ma/medi1tv/hls/stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Medi1TV.ma" tvg-name="Medi1TV 720p" tvg-logo="https://www.medi1tv.com/ar/img/logo2.png" group-title="Maroc LiveMedia",Medi1TV 720p
+https://stream-lb.livemedia.ma/medi1tv/hls/stream_2/playlist.m3u8
+
+# M24 Maroc
+#EXTINF:-1 tvg-id="M24.ma" tvg-name="M24 Maroc 4K" tvg-logo="https://i.ibb.co/0kXjZ/m24-maroc.png" group-title="Maroc LiveMedia",M24 Maroc 4K
+https://stream-lb.livemedia.ma/m24maroc/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="M24.ma" tvg-name="M24 Maroc 1080p" tvg-logo="https://i.ibb.co/0kXjZ/m24-maroc.png" group-title="Maroc LiveMedia",M24 Maroc 1080p
+https://stream-lb.livemedia.ma/m24maroc/hls/stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="M24.ma" tvg-name="M24 Maroc 720p" tvg-logo="https://i.ibb.co/0kXjZ/m24-maroc.png" group-title="Maroc LiveMedia",M24 Maroc 720p
+https://stream-lb.livemedia.ma/m24maroc/hls/stream_2/playlist.m3u8
+
+# Chada TV
+#EXTINF:-1 tvg-id="ChadaTV.ma" tvg-name="Chada TV 4K" tvg-logo="https://i.ibb.co/chada-tv-logo.png" group-title="Maroc LiveMedia",Chada TV 4K
+https://stream-lb.livemedia.ma/chadatv/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="ChadaTV.ma" tvg-name="Chada TV 1080p" tvg-logo="https://i.ibb.co/chada-tv-logo.png" group-title="Maroc LiveMedia",Chada TV 1080p
+https://stream-lb.livemedia.ma/chadatv/hls/stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="ChadaTV.ma" tvg-name="Chada TV 720p" tvg-logo="https://i.ibb.co/chada-tv-logo.png" group-title="Maroc LiveMedia",Chada TV 720p
+https://stream-lb.livemedia.ma/chadatv/hls/stream_2/playlist.m3u8
+
+# Laayoune TV
+#EXTINF:-1 tvg-id="LaayouneTV.ma" tvg-name="Laayoune TV 4K" tvg-logo="https://seeklogo.com/images/L/laayoune-tv-logo.png" group-title="Maroc LiveMedia",Laayoune TV 4K
+https://stream-lb.livemedia.ma/laayoune/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="LaayouneTV.ma" tvg-name="Laayoune TV 1080p" tvg-logo="https://seeklogo.com/images/L/laayoune-tv-logo.png" group-title="Maroc LiveMedia",Laayoune TV 1080p
+https://stream-lb.livemedia.ma/laayoune/hls/stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="LaayouneTV.ma" tvg-name="Laayoune TV 720p" tvg-logo="https://seeklogo.com/images/L/laayoune-tv-logo.png" group-title="Maroc LiveMedia",Laayoune TV 720p
+https://stream-lb.livemedia.ma/laayoune/hls/stream_2/playlist.m3u8
+
+# Tele Maroc
+#EXTINF:-1 tvg-id="TeleMaroc.ma" tvg-name="Tele Maroc 4K" tvg-logo="https://seeklogo.com/images/T/tele-maroc-logo.png" group-title="Maroc LiveMedia",Tele Maroc 4K
+https://stream-lb.livemedia.ma/telemaroc/hls/stream_0/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleMaroc.ma" tvg-name="Tele Maroc 1080p" tvg-logo="https://seeklogo.com/images/T/tele-maroc-logo.png" group-title="Maroc LiveMedia",Tele Maroc 1080p
+https://stream-lb.livemedia.ma/telemaroc/hls/stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleMaroc.ma" tvg-name="Tele Maroc 720p" tvg-logo="https://seeklogo.com/images/T/tele-maroc-logo.png" group-title="Maroc LiveMedia",Tele Maroc 720p
+https://stream-lb.livemedia.ma/telemaroc/hls/stream_2/playlist.m3u8
